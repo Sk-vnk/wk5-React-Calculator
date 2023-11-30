@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//github.com/Sk-vnk/wk5-React-Calculator/static/css/main.946912db.css",
+    "main.js": "//github.com/Sk-vnk/wk5-React-Calculator/static/js/main.3010a769.js",
+    "index.html": "//github.com/Sk-vnk/wk5-React-Calculator/index.html",
+    "main.946912db.css.map": "//github.com/Sk-vnk/wk5-React-Calculator/static/css/main.946912db.css.map",
+    "main.3010a769.js.map": "//github.com/Sk-vnk/wk5-React-Calculator/static/js/main.3010a769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.946912db.css",
+    "static/js/main.3010a769.js"
+  ]
+}
